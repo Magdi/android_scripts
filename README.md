@@ -3,8 +3,7 @@ android_scripts
 
 all the helpful scripts regarding android developments 
 
-#add_connected_devices_as_wirless_adb 
----
+##add_connected_devices_as_wirless_adb 
 1. make sure all the android phones/tablets connected to the same network as the device
 2. add the desired android devices using cable 
 3. run the script 
